@@ -1,0 +1,5 @@
+{
+  "main": "public/index.php",
+  "chmod": "0755",
+  "exclude-composer-files": false
+}
